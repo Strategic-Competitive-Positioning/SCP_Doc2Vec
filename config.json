@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "main",
+      "tensorShape": [
+        160599,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Strategic-Competitive-Positioning/SCP_Doc2Vec/main/tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Strategic-Competitive-Positioning/SCP_Doc2Vec/main/metadata.tsv"
+    }
+  ]
+}
