@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "main",
+      "tensorName": "1995-2020",
       "tensorShape": [
         160599,
         50
